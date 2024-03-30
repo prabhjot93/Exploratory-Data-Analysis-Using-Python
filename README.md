@@ -14,4 +14,6 @@ Married women of age group 26-35 are more likely to spend in food, clothing and 
 
 Majority of customers are from IT, Aviation and Healthcare occupations.
 
+Age group below 17 years spent least in shopping
+
 Overall, women turned out be the top buyer with more spending choices
