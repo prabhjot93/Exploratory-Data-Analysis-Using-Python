@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Using-Python
 
-Key Learnings from this Analysis
+Key Learnings from this Analysis:
 
 Performed Data Cleaning, data manipulation using pandas, matplotlib, seaborn libraries
 
